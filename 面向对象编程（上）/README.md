@@ -1,7 +1,8 @@
 # 面向对象编程（上）
 ## 目录
--[一、类与对象](https://github.com/zych1108/JAVA/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89/README.md#一、类与对象)
--[二、类的结构之一：属性](https://github.com/zych1108/JAVA/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89/README.md#二、类的结构之一：属性)
+- [一、类与对象](https://github.com/zych1108/JAVA/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89/README.md/#一、类与对象)
+
+- [二、类的结构之一：属性](https://github.com/zych1108/JAVA/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89/README.md/#二、类的结构之一：属性)
 
 ## 一、类与对象
 
