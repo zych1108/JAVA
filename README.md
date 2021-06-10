@@ -7,7 +7,7 @@ the notes of JAVA SGG
 |java基础     |第一章 java语言概述         |
 |java基础     |第二章 [基本语法](https://github.com/zych1108/JAVA/blob/main/day02.md)             |         
 |java基础     |第三章 [数组](https://github.com/zych1108/JAVA/tree/main/%E6%95%B0%E7%BB%84/%E6%95%B0%E7%BB%84)                 |         
-|java基础     |第四章 面向对象编程（上）   |
+|java基础     |第四章 [面向对象编程（上）](https://github.com/zych1108/JAVA/tree/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89)   |
 |java基础     |第五章 面向对象编程（中）   |
 |java基础     |第六章 面向对象编程（下）   |
 |java基础     |第七章 异常处理             |
